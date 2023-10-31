@@ -21,3 +21,4 @@ A program that creates ground truth using data extracted from carla
 - Unique ID
 - PCD
 - Map Information
+- Json
