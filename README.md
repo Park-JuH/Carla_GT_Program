@@ -7,18 +7,12 @@ A program that creates ground truth using data extracted from carla
 2022.09. - 2023.02
 
 ## 맴버 구성
-박재준: Carla에서 GT를 만들기 위해 필요한 데이터 추출
+박재준: Carla에서 GT를 만들기 위해 필요한 데이터 추출<br/>
 박주혁: 추출한 데이터를 기반으로 GT 생성
 
 ## 개발 환경
 - python: 3.71
 
-## 추출 데이터 및 GT
+## 최종 출력물
 - RGB Image
-- Semantic Segmentation Image
-- Instance Segmentation Image
-- Bounding Box
-- Unique ID
-- PCD
-- Map Information
 - Json
