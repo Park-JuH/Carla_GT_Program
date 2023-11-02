@@ -1,7 +1,7 @@
 # Carla_GT_Program
 
 ## 프로젝트 소개
-A program that creates ground truth using data extracted from carla
+Carla에서 추출한 데이터를 이용하여 Ground Truth를 생성하는 프로그램 개발
 
 ## 개발 기간
 2022.09. - 2023.02
