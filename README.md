@@ -20,3 +20,10 @@ Carla에서 추출한 데이터를 이용하여 Ground Truth를 생성하는 프
 ## 결과
 ![image020](https://github.com/user-attachments/assets/5a88bea6-1a13-4e14-acc5-c87159fc15b4)
 ![image016](https://github.com/user-attachments/assets/a12153ff-9f2f-48d9-bcd1-f55cfab42eeb)
+
+<div align=center><h1>📚 STACKS</h1></div>
+<div align=center> 
+  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+</div>
